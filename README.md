@@ -1,7 +1,14 @@
-<h1>Hello, I'm Daniil! 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=444444&height=200&text=Hello%,%20I%27m%20Kalts%20Daniil!%20%F0%9F%91%8B&fontSize=26&fontAlignY=40&fontColor=ffffff" alt="header" width="100%" />
 
-I'm a passionate Frontend Developer from Kazakhstan. <br />
-As a developer, I am known for my ability to learn new technologies quickly and focus on details.
+## About Me:
+- I'm a passionate Frontend Developer from Kazakhstan. <br /> As a developer, I am known for my ability to learn new technologies quickly and focus on details.
+- Get in touch with me: <a href="https://t.me/KaltsDaniil">
+	  <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="mailto:daniilkalc@gmail.com">
+	  <img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=gmail" alt="Gmail Badge"/>
+  </a>
+---
 
 <details open>
   <summary><h2>📊 GitHub Stats:</h2></summary>
@@ -10,28 +17,6 @@ As a developer, I am known for my ability to learn new technologies quickly and 
 </details>
 
 <details open>
-  <summary><h2>💼 Top Of My Projects:</h2></summary>
-  <a href="https://github.com/macrochel/Tardigrade">
-    <img width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=DaniilKalts&repo=chess-game&theme=gotham&show_owner=true"/>
-  </a>
-  <a href="https://github.com/macrochel/JasylTirsilik">
-    <img width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=DaniilKalts&repo=uptodo&theme=gotham&show_owner=true"/>
-  </a>
-  <a href="https://github.com/macrochel/geojson-to-mysql">
-    <img width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=DaniilKalts&repo=guess-number-telegram-bot&theme=gotham&show_owner=true"/>
-  </a>
-  <a href="https://github.com/macrochel/ChickBoy">
-    <img width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=DaniilKalts&repo=javascript-pet-projects&theme=gotham&show_owner=true"/>
-  </a>
-  <a href="https://github.com/macrochel/Jumys-DESKTOP">
-    <img width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=DaniilKalts&repo=wavesco-landing-page&theme=gotham&show_owner=true"/>
-  </a>
-  <a href="https://github.com/macrochel/Jumys-DESKTOP">
-    <img width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=DaniilKalts&repo=recipe-rest-api&theme=gotham&show_owner=true"/>
-  </a>
-</details>
-
-<details open>
-  <summary><h2> 👨‍🎓 LeetCode Stats:</h2></summary>
+  <summary><h2> 👨‍🎓 LeetCode Profile:</h2></summary>
   <img src="https://leetcard.jacoblin.cool/Kalts_Daniil?ext=heatmap" alt="LeetCode Stats">
 </details>
