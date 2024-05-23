@@ -3,10 +3,10 @@
 ## About Me:
 - I'm a passionate Frontend Developer from Kazakhstan. <br /> As a developer, I am known for my ability to learn new technologies quickly and focus on details.
 - Get in touch with me: <a href="https://t.me/KaltsDaniil">
-	  <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+	  <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge" align="center" />
   </a>
   <a href="mailto:daniilkalc@gmail.com">
-	  <img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=gmail" alt="Gmail Badge"/>
+	  <img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=gmail" alt="Gmail Badge" align="center" />
   </a>
 ---
 
