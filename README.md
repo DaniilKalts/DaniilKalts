@@ -1,19 +1,16 @@
-<h1>
-  Hello world!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><br />
-  I'm <span color="#36BCF7">Daniil Kalts</span>
-</h1>
-<p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg" >
+<h1 align="center">
+  Binary Salute!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;Actively+learning+Go;I+use+Arch+btw;And+Neovim+too;&width=800&height=60&font=georgia"
+      src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Backend+Developer.;Actively+learning+Go.;Btw+I+use+Arch...;And+Neovim+too.;:wqa;&center=true&width=800&height=60&font=georgia"
       style="width:100%; height:auto;"
       alt="typing svg"
     />
   </a>
-</p>
+</h1>
 
-<h2>About me:</h2>
+<h3>About me:</h2>
 <ul>
   <li>📍 Based in Kazakhstan, Almaty</li>
   <li>👨‍🎓 First-year Bachelor’s student in Software Engineering at IITU</li>
