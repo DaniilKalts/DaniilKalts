@@ -1,16 +1,27 @@
 <h1>
-  Hi, I'm Daniil Kalts!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  Hello world!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><br />
+  I'm <span color="#36BCF7">Daniil Kalts</span>
 </h1>
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg" >
     <img
-      src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;Actively+learning+Go;I+use+Arch+btw;&width=800&height=60&font=georgia"
+      src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;Actively+learning+Go;I+use+Arch+btw;And+Neovim+too;&width=800&height=60&font=georgia"
       style="width:100%; height:auto;"
       alt="typing svg"
     />
   </a>
 </p>
+
+<h2>About me:</h2>
+<ul>
+  <li>📍 Based in Kazakhstan, Almaty</li>
+  <li>👨‍🎓 First-year Bachelor’s student in Software Engineering at IITU</li>
+  <li>💻 Built countless projects, so I never hesitate to dive into something new</li>
+  <li>🐧 Exploring GNU/Linux system administration</li>
+  <li>🧪 Experimenting with DevOps to enhance my backend work flow</li>
+  <li>💼 Looking for Full-Time Opportunities/roles.</li>
+</ul>
 
 <img src="./assets/gopher-workout.gif" alt="gopher exercising" />
 
