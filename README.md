@@ -12,7 +12,11 @@
   </a>
 </p>
 
+<img src="./assets/gopher-workout.gif" alt="gopher exercising" />
+
 <hr/>
+
+
 
 <details open>
   <summary><h2>📊 GitHub Stats:</h2></summary>
