@@ -2,11 +2,11 @@
   Binary Salute!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?lines=I%27m+a+Backend+Developer.;Actively+learning+Go.;Btw+I+use+Arch...;And+Neovim+too.;But+I+haven%27t+found+a+way+to+quit+it+yet...&center=true&width=800&height=60&font=georgia"
-      style="width:100%; height:auto;"
-      alt="typing svg"
-    />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?lines=I%27m+a+Backend+Developer.;Actively+learning+Go.;I+use+Arch+btw.;Write+code+in+Neovim.;It+feels+so+good+that+I+don%27t+wanna+quit+it...;%5Bdaniilkalts@archlinux-host+~%5D%23+reboot&center=true&width=800&height=60&font=georgia"
+    style="width:100%; height:auto;"
+    alt="typing prompt"
+  />
   </a>
 </h1>
 
@@ -30,14 +30,6 @@
 </table>
 
 <hr/>
-
-<details open>
-  <summary><h2>👨‍💻 My Weekly Code Activity:</h2></summary>
-  <img 
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=daniilkalts&theme=dark&show_icons=true&range=last_7_days"
-    alt="WakaTime stats for last 7 days"
-  />
-</details>
 
 <details open>
   <summary><h2>📊 GitHub Stats:</h2></summary>
