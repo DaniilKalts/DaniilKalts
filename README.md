@@ -23,7 +23,13 @@
 
 <hr/>
 
-
+<details open>
+  <summary><h2>👨‍💻 My Weekly Code Activity:</h2></summary>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=daniilkalts&theme=dark&show_icons=true&range=last_7_days"
+    alt="WakaTime stats for last 7 days"
+  />
+</details>
 
 <details open>
   <summary><h2>📊 GitHub Stats:</h2></summary>
@@ -32,6 +38,6 @@
 </details>
 
 <details open>
-  <summary><h2> 👨‍🎓 LeetCode Profile:</h2></summary>
+  <summary><h2> 👨‍🎓 LeetCode Stats:</h2></summary>
   <img src="https://leetcard.jacoblin.cool/Kalts_Daniil?ext=heatmap" alt="LeetCode Stats">
 </details>
