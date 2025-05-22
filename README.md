@@ -34,7 +34,6 @@
 <details open>
   <summary><h2>📊 GitHub Stats:</h2></summary>
   <img width=395px src="https://github-readme-stats.vercel.app/api?username=DaniilKalts&show_icons=true&theme=gotham&layout=compact"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniilKalts&theme=gotham&layout=compact"/>
 </details>
 
 <details open>
