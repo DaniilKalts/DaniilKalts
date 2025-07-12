@@ -16,7 +16,7 @@
             <h3>About me:</h3>
             <ul>
                 <li>📍 Based in Kazakhstan, Almaty</li>
-                <li>👨‍🎓 First-year Bachelor’s student in Software Engineering at IITU</li>
+                <li>👨‍🎓 Second-year Bachelor’s student in Software Engineering at IITU</li>
                 <li>💻 Built countless projects, so I never hesitate to dive into something new</li>
                 <li>🐧 Exploring GNU/Linux system administration</li>
                 <li>🧪 Experimenting with DevOps to enhance my backend workflow</li>
