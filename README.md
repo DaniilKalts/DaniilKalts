@@ -101,3 +101,14 @@
     </td>
   </tr>
 </table>
+
+<hr />
+
+<h2>📬 Contact Me</h2>
+
+<a href="https://www.linkedin.com/in/daniilkalts/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://t.me/DaniilKalts">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
