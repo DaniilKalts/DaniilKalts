@@ -17,7 +17,7 @@
       <ul>
         <li>📍 Based in Kazakhstan, Almaty</li>
         <li>💻 Built countless projects, so I never hesitate to dive into something new</li>
-        <li>🐧 Exploring GNU/Linux system administration</li>
+        <li>🤖 Utilizing AI to replace those who reject it</li>
         <li>🧪 Experimenting with DevOps to enhance my backend workflow</li>
         <li>💼 Looking for full-time opportunities</li>
       </ul>
