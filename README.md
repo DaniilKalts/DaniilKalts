@@ -29,21 +29,3 @@
 </table>
 
 <hr />
-
-<div>
-    <img src="https://wakatime.com/share/@daniilkalts/8fc9e8b7-6e15-449d-b42d-559f05c07d71.svg" alt="WakaTime activity" width="48%" />
-    &nbsp;&nbsp;&nbsp;
-    <img src="https://wakatime.com/share/@daniilkalts/be13d807-67f7-447f-9e0d-3c2ae585bbbc.svg" alt="WakaTime languages" width="48%" />
-</div>
-
-<hr />
-
-<details open>
-    <summary><h2>📊 GitHub Stats:</h2></summary>
-    <img width="395px" src="https://github-readme-stats.vercel.app/api?username=DaniilKalts&show_icons=true&theme=gotham&layout=compact" />
-</details>
-
-<details open>
-    <summary><h2>👨‍🎓 LeetCode Stats:</h2></summary>
-    <img src="https://leetcard.jacoblin.cool/Kalts_Daniil?ext=heatmap" alt="LeetCode Stats" />
-</details>
